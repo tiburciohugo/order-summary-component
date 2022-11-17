@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Order from "../Components/Order";
+import Order from "../components/Order";
 
 export default function Home() {
   return (
